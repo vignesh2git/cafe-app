@@ -35,13 +35,13 @@ A fully responsive and visually aesthetic cafe shop website built using HTML, CS
 ---
 Laptop View
 ---
-![Cafe App Screenshot](/cafe/images/laptop-view.png)
+![Cafe App Screenshot](/images/laptop-view.png)
 
 
 Moblie View
 ---
 
-![Cafe App Screenshot](/cafe/images/moblie-view.png)
+![Cafe App Screenshot](/images/moblie-view.png)
 
 🔧 𝐇𝐨𝐰 𝐭𝐨 𝐑𝐮𝐧 𝐋𝐨𝐜𝐚𝐥𝐥𝐲
 ---
